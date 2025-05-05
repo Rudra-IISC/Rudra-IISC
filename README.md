@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about research, coding, and leverag
 
 - Programming Languages: [ Python, R, JavaScript, C++,C#, etc.]
 - Tools & Frameworks: [Unity, MATLAB, TensorFlow, PyTorch, React, etc.]
-- Platforms: [Windows,Android, Linux, AWS, Docker,MQTT]
+- Platforms: [Windows,Android, Linux, AWS, Docker, MQTT]
 
 ## 📈 GitHub Stats
 
@@ -24,6 +24,10 @@ Welcome to my GitHub profile! I'm passionate about research, coding, and leverag
 ## 🚀 Projects & Contributions
 
 Check out my pinned repositories below to see some of my work.
+
+https://github.com/Rudra-IISC/Edge-AI-Based-Smart-Irrigation
+
+
 
 ## 📫 Get in Touch
 
