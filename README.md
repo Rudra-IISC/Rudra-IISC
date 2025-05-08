@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about research, coding, and leverag
 
 ## 🌱 About Me
 
-- 🎓 **Researcher:** Currently exploring cutting-edge topics in [Human Machine Interactions, Extended reality(AR, VR, MR), Intelligent User Interfaces and Human Factors}.
+- 🎓 **Researcher:** Currently exploring cutting-edge topics in Human Machine Interactions, Extended reality(AR, VR, MR), Intelligent User Interfaces and Human Factors.
 - 💻 **Developer:** I enjoy writing clean and efficient code. Whether it's building tools, writing algorithms, or creating impactful projects, I'm always up for a challenge.
 - 📚 **Lifelong Learner:** I'm committed to continuously learning and exploring new technologies and methodologies.
 - 🌏 **Collaborator:** Open to collaborating on interesting projects and research opportunities.
